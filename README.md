@@ -72,9 +72,9 @@ Add screenshots here after capturing them.
 Login Page
 ![Login](screenshots/login.png)
 Dashboard
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
-![Dashboard](screenshots/dashboard3.png)
+![Dashboard](screenshots/Dashboard1.png)
+![Dashboard](screenshots/Dashboard2.png)
+![Dashboard](screenshots/Dashboard3.png)
 
 Installation:
 Clone Repository
